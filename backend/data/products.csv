@@ -1,0 +1,5 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+101,500,T-Shirts,Classic T-Shirt,Nike,999,Men,TS101,1
+102,1200,Shirts,Formal Shirt,Peter England,1599,Men,SH102,2
+103,800,T-Shirts,Graphic Tee,Puma,1099,Women,TS103,1
+104,1500,Jackets,Winter Jacket,Adidas,1999,Men,JK104,3

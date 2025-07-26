@@ -1,0 +1,17 @@
+{
+  "name": "smartcsvapp",
+  "version": "1.0.0",
+  "description": "E-commerce CSV chatbot backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Heena",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0"
+  }
+}
